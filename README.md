@@ -1,0 +1,2 @@
+# gitleaks_testing_public_repo
+202211_Gitleaksテスト用リポジトリ
